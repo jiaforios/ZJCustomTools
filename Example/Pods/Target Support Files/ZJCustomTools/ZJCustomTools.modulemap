@@ -1,0 +1,6 @@
+framework module ZJCustomTools {
+  umbrella header "ZJCustomTools-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - ZJCustomTools (0.1.0)
+
+DEPENDENCIES:
+  - ZJCustomTools (from `../`)
+
+EXTERNAL SOURCES:
+  ZJCustomTools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZJCustomTools: 8a130b0da8bd7dc50feb900ea80702eb92919ca5
+
+PODFILE CHECKSUM: 946c6ff599e321f4e8ecb30545d62f6a4369347c
+
+COCOAPODS: 1.6.1
