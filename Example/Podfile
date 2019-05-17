@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'ZJCustomTools_Example' do
+  pod 'ZJCustomTools', :path => '../'
+
+  target 'ZJCustomTools_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
